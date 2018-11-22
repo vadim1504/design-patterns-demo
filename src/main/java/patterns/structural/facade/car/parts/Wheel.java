@@ -1,4 +1,4 @@
-package patterns.structural.facade.parts;
+package patterns.structural.facade.car.parts;
 
 public class Wheel {
 

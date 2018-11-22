@@ -1,7 +1,7 @@
-package patterns.structural.facade;
+package patterns.structural.facade.car;
 
-import patterns.structural.facade.parts.Door;
-import patterns.structural.facade.parts.Wheel;
+import patterns.structural.facade.car.parts.Door;
+import patterns.structural.facade.car.parts.Wheel;
 
 public class CarFacade {
 
